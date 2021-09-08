@@ -8,7 +8,7 @@ These routines are made on julia and are mean to work on a jupyter notebook (IJu
 *) FastGaussQuadrature and
 *) Cuba.
 
-To run, only make the last markdown cells executables (with Y)
+To run, only make the last markdown cells executables (select cell and press Y). [If you need to make an executable cell a markdown cell again, select it and press M]
 
 At the beginning of each notebook, you can choose between three materials: Aluminum (Drude model), Gold (Werner) and Bismuth (Werner).
 
