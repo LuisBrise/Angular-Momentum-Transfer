@@ -15,3 +15,5 @@ At the beginning of each notebook, you can choose between three materials: Alumi
 In the output-file cell you have to input the parameters for the angular momentum transfer calculation.
 
 All routines need to use the dictionary l100-Ii1i2lm-julia-dictionary.jl
+
+NOTE: In the program, the impact parameter is measured from the center of the nanoparticle.
