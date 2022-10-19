@@ -1,3 +1,6 @@
+Modifications done by Jorge Luis Briseño Gómez
+email: jorgeluisbrisenio@ciencias.unam.mx
+
 # Angular-Momentum-Transfer
 Programs to compute the angular momentum transfer from a STEM fast electron to a spherical nanoparticle
 
